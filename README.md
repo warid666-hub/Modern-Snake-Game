@@ -20,4 +20,5 @@ A modern Snake game built with Python and Pygame featuring smooth movement, neon
 - Pygame
 
 ## Demo
+<img width="1008" height="784" alt="image" src="https://github.com/user-attachments/assets/175afcf6-7d3b-43f3-80a3-a40646eeab67" />
 
